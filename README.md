@@ -23,5 +23,5 @@ Below, we will publish Zoom links for those who would like to attend the reading
 
 Have a topic you would like to talk about on the reading group? Or just want to chat? Reach out to us on twitter:
 - [Putri van der Linden](https://twitter.com/compute_ri), PhD student with dr. Erik Bekkers at Amsterdam Machine Learning Lab.
-- [David Wessels](https://mobile.twitter.com/dafidofff), AI Research Engineer at Ellogon.
+- [David Wessels](https://mobile.twitter.com/dafidofff), AI Research Engineer at Ellogon.ai.
 - [David Knigge](https://twitter.com/davidmknigge), PhD student with dr. Efstratios Gavves at Video & Image Sense Lab.
