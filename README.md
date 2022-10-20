@@ -6,10 +6,10 @@ A reading group for everyone interested in geometric deep learning, hosted by [V
 
 | Date | Location | Time | Speaker | Topic | Zoom | Recording |
 | --- | --- | --- |  --- |  --- | --- | --- | 
-| 14 Oct 2022 | C4.174 | 16:00 CET | Leo Dorst | Plane Based Geometric Algebra | [Zoom](https://uva-live.zoom.us/j/87113909900) | [Youtube](https://www.youtube.com/watch?v=8n6GsKWznfY&ab_channel=UvA-GeoDL) |
+| 14 Oct 2022 | C4.174 | 16:00 CET | [Leo Dorst](https://staff.fnwi.uva.nl/l.dorst/) | Plane Based Geometric Algebra | [Zoom](https://uva-live.zoom.us/j/87113909900) | [Youtube](https://www.youtube.com/watch?v=8n6GsKWznfY&ab_channel=UvA-GeoDL) |
 | 28 Oct 2022 | - | - | - | ECCV, no meeting scheduled | - | - |
-| 11 Nov 2022 | C4.174 | 16:00 CET | Andy Keller | [Topographic VAEs Learn Equivariant Capsules](https://arxiv.org/abs/2109.01394) | - | - |
-| 25 Nov 2022 | L3.35 | 16:00 CET | Artem Moskalev | [LieGG: Studying Learned Lie Group Generators](https://arxiv.org/abs/2210.04345) | - | - |
+| 11 Nov 2022 | C4.174 | 16:00 CET | [Andy Keller](http://www.keller.org/about/) | [Topographic VAEs Learn Equivariant Capsules](https://arxiv.org/abs/2109.01394) | - | - |
+| 25 Nov 2022 | L3.35 | 16:00 CET | [Artem Moskalev](https://amoskalev.github.io/) | [LieGG: Studying Learned Lie Group Generators](https://arxiv.org/abs/2210.04345) | - | - |
 | 9 Dec 2022 | - | - | - | NeurIPS, no meeting scheduled | - | - |
 | 16 Dec 2022 | L3.35 | 16:00 CET | to be determined | - | - | - |
 | 23 Dec 2022 | - | - | - | x-mas time, no meeting scheduled | - | - |
