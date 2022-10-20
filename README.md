@@ -20,6 +20,6 @@ A reading group for everyone interested in geometric deep learning, hosted by [V
 ## contact
 
 Have a topic you would like to talk about? Or have any other questions? Reach out to us on twitter:
-- [Putri van der Linden](https://twitter.com/compute_ri)
-- [David Wessels](https://mobile.twitter.com/dafidofff)
-- [David Knigge](https://twitter.com/davidmknigge)
+- [Putri van der Linden](https://twitter.com/compute_ri), PhD student with dr. Erik Bekkers at Amsterdam Machine Learning Lab.
+- [David Wessels](https://mobile.twitter.com/dafidofff), AI Research Engineer at Ellogon.
+- [David Knigge](https://twitter.com/davidmknigge), PhD student with dr. Efstratios Gavves at Video & Image Sense Lab.
