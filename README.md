@@ -10,7 +10,7 @@ Below, we will publish Zoom links for those who would like to attend the reading
 | --- | --- | --- |  --- |  --- | --- | --- | 
 | 14 Oct '22 | C4.174 | 16:00 CET | [Leo Dorst](https://staff.fnwi.uva.nl/l.dorst/) | [Plane Based Geometric Algebra](https://bivector.net/) | [Zoom](https://uva-live.zoom.us/j/87113909900) | [Youtube](https://www.youtube.com/watch?v=8n6GsKWznfY&ab_channel=UvA-GeoDL) |
 | 28 Oct '22 | - | - | - | ECCV, no meeting scheduled | - | - |
-| 11 Nov '22 | C4.174 | 16:00 CET | [Andy Keller](http://www.keller.org/about/) | [Topographic VAEs Learn Equivariant Capsules](https://arxiv.org/abs/2109.01394) | - | - |
+| 11 Nov '22 | C4.174 | 16:00 CET | [Andy Keller](http://www.keller.org/about/) | [Topographic VAEs Learn Equivariant Capsules](https://arxiv.org/abs/2109.01394) | [Zoom](https://uva-live.zoom.us/j/86185392027) | - |
 | 25 Nov '22 | L3.35 | 16:00 CET | [Artem Moskalev](https://amoskalev.github.io/) | [LieGG: Studying Learned Lie Group Generators](https://arxiv.org/abs/2210.04345) | - | - |
 | 9 Dec '22 | - | - | - | NeurIPS, no meeting scheduled | - | - |
 | 16 Dec '22 | L3.35 | 16:00 CET | - | to be determined | - | - | 
