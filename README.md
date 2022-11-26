@@ -1,8 +1,8 @@
-# geometric deep learning reading group
+# geometric deep learning seminar
 
-A reading group for everyone interested in geometric deep learning, hosted by [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) and [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/). In principle, held bi-weekly (we mean the 'once every two weeks' one).
+A seminar group for everyone interested in geometric deep learning, hosted by [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) and [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/). In principle, held bi-weekly (we mean the 'once every two weeks' one).
 
-Below, we will publish Zoom links for those who would like to attend the reading group online.
+Below, we will publish Zoom links for those who would like to attend the sessions online.
 
 # schedule
 
