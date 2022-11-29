@@ -1,6 +1,6 @@
-<img src="images/stickermetcomicsans.png" alt="Logo" width="150" heigth="150"/> 
-
 #  Geometric Deep Learning Seminar
+
+<img src="images/stickermetcomicsans.png" alt="Logo" width="150" heigth="150"/> 
 A seminar group for everyone interested in geometric deep learning, hosted by [Video & Image Sense Lab](https://ivi.fnwi.uva.nl/vislab/) and [Amsterdam Machine Learning Lab](https://amlab.science.uva.nl/). In principle, held bi-weekly (we mean the 'once every two weeks' one).
 
 Below, we will publish Zoom links for those who would like to attend the sessions online.
