@@ -14,7 +14,7 @@ Below, we will publish Zoom links for those who would like to attend the session
 | 11 Nov '22 | C4.174 | 16:00 CET | [Andy Keller](http://www.keller.org/about/) | [Topographic VAEs Learn Equivariant Capsules](https://arxiv.org/abs/2109.01394) | [Zoom](https://uva-live.zoom.us/j/86185392027) | [Youtube](https://www.youtube.com/watch?v=57yE8qapp9A) |
 | 25 Nov '22 | L3.35 | 16:00 CET | [Sharvaree Vadgama](https://twitter.com/sharvvadgama) | [Kendall Shape-VAE Learning Shapes in a Generative Framework](https://openreview.net/pdf?id=nzh4N6kdl2G) | [Zoom](https://uva-live.zoom.us/j/89309489220) | - |
 | 9 Dec '22 | - | - | - | NeurIPS, no meeting scheduled | - | - |
-| 16 Dec '22 | C4.174 | 16:00 CET | [Artem Moskalev](https://amoskalev.github.io/) | [LieGG: Studying Learned Lie Group Generators](https://arxiv.org/abs/2210.04345) | - | - |
+| 16 Dec '22 | C4.174 | 16:00 CET | [Artem Moskalev](https://amoskalev.github.io/) | [LieGG: Studying Learned Lie Group Generators](https://arxiv.org/abs/2210.04345) | [Zoom](https://uva-live.zoom.us/j/85330383307) | - |
 | 23 Dec '22 | - | - | - | x-mas time, no meeting scheduled | - | - |
 | 6 Jan '23 | L3.35 | 16:00 CET | - | to be determined | - | - |
 | 20 Jan '23 | L3.35 | 16:00 CET | [Ivan Sosnovik](https://isosnovik.xyz/) | [DISCO: accurate Discrete Scale Convolutions](https://arxiv.org/abs/2106.02733) | - | - |
