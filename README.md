@@ -16,7 +16,7 @@ Below, we will publish Zoom links for those who would like to attend the session
 | 9 Dec '22 | - | - | - | NeurIPS, no meeting scheduled | - | - |
 | 16 Dec '22 | C4.174 | 16:00 CET | [Artem Moskalev](https://amoskalev.github.io/) | [LieGG: Studying Learned Lie Group Generators](https://arxiv.org/abs/2210.04345) | [Zoom](https://uva-live.zoom.us/j/85330383307) | [Youtube](https://www.youtube.com/watch?v=BUQ5VNEdrVk) |
 | 23 Dec '22 | - | - | - | x-mas time, no meeting scheduled | - | - |
-| 6 Jan '23 | L3.35 | 16:00 CET | - | - | - | - |
+| 6 Jan '23 | - | - | - | - | - | - |
 | 20 Jan '23 | L3.35 | 16:00 CET | [Ivan Sosnovik](https://isosnovik.xyz/) | [DISCO: accurate Discrete Scale Convolutions](https://arxiv.org/abs/2106.02733) | [Zoom](https://uva-live.zoom.us/j/84002063555) | - |
 
 
